@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fake Store</string>
+
+    <string name="category">Category:</string>
+    <string name="rating">Rating: %1$.2f</string>
+    <string name="stock">Stock: %1$d</string>
+    <string name="price">$ %1$d</string>
+    <string name="product_detail">Product Detail</string>
+</resources>
